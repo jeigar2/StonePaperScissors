@@ -18,3 +18,4 @@ https://www.canva.com/
 
 Para acceder al conetido de la aplicacion
 http://ai2.appinventor.mit.edu/?ng=29149c58-1a6b-432e-991c-4dc29045ed81#5681727057297408
+![Caputura de pantalla](screenshot1.png)
