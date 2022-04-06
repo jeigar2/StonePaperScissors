@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Win","$Type":"Form","$Version":"30","ActionBar":"True","AppName":"StonePaperScissors","Theme":"AppTheme.Light.DarkActionBar","Title":"Win","Uuid":"0","$Components":[{"$Name":"TextBox1","$Type":"TextBox","$Version":"6","FontBold":"True","FontSize":"48","FontTypeface":"3","Height":"-2","Width":"-2","Hint":"Hint for TextBox1","ReadOnly":"True","Text":"You win!","TextAlignment":"1","Uuid":"1929871580"},{"$Name":"Button1","$Type":"Button","$Version":"7","BackgroundColor":"&HFF0000FF","FontSize":"24","FontTypeface":"3","Height":"-1040","Width":"-2","Text":"New Game","TextColor":"&HFFFFFFFF","Uuid":"1974002116"}]}}
+|#

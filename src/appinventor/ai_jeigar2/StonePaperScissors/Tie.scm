@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Tie","$Type":"Form","$Version":"30","ActionBar":"True","AppName":"StonePaperScissors","Theme":"AppTheme.Light.DarkActionBar","Title":"Tie","Uuid":"0","$Components":[{"$Name":"TextBox1","$Type":"TextBox","$Version":"6","FontSize":"48","FontTypeface":"3","Height":"-2","Width":"-2","Hint":"Hint for TextBox1","ReadOnly":"True","Text":"Both Tied!","TextAlignment":"1","Uuid":"1219006837"},{"$Name":"Button1","$Type":"Button","$Version":"7","BackgroundColor":"&HFF0000FF","FontSize":"24","Height":"-1040","Width":"-2","Text":"New Game","TextColor":"&HFFFFFFFF","Uuid":"-430642255"}]}}
+|#
